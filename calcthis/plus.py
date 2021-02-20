@@ -6,3 +6,4 @@ def plus_it_double(a, b):
 
 if __name__ == '__main__':
     plus_it(4, 3)
+    plus_it(5, 4)
